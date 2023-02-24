@@ -1,5 +1,20 @@
-### Hi there 👋
+# Hi there 👋
 
+## Articles
+
+
+
+[TechCrunch: How should we regulate DeFi?](https://techcrunch.com/2021/12/08/how-should-we-regulate-defi/) Ghostwritten, pitched, and placed by me.
+
+[TheNextWeb: Smart cities won't infringe on privacy or destroy buildings](https://thenextweb.com/news/smart-cities-wont-infringe-on-privacy-or-destroy-buildings)
+
+[Brave New Coin: Pandemic response prompts priacy concerns](https://bravenewcoin.com/insights/pandemic-response-prompts-privacy-concerns)
+
+[Qredo: What are threshold signatures?](https://www.qredo.com/blog/what-are-threshold-signatures)
+
+## Guides
+
+[Institutional DeFi in 5 simple steps](https://www.qredo.com/blog/institutional-defi-in-5-simple-steps)
 
 
 ## Find me around the web 
