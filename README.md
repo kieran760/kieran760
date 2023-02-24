@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm Kieran — a technical content writer with a deep understanding of blockchain, and experience creating blog posts, user guides,  and documentation that illuminates the often murky world of Web3.
+I'm Kieran — a technical content writer with a deep understanding of blockchain, and experience creating blog posts, user guides,  and docs that illuminate the often murky world of Web3.
 
 ### Articles 📰
 
