@@ -1,4 +1,6 @@
-## Hi there, I'm Kieran 👋
+## Hey there 👋
+
+I'm Kieran — a technical content writer with a deep understanding of blockchain, and experience creating blog posts, user guides,  and documentation to illuminate the often murky world of Web3.
 
 ### Articles 📰
 
@@ -24,12 +26,10 @@
 
 [Jargonbuster: Digital assets and DeFi terms](https://www.qredo.com/blog/jargon-buster-digital-asset-and-defi-terms)
 
-### Find me around the web 
 
-- 📫 How to reach me: ...
-
-- ⚡ Fun fact: ...
-
+```
+⚡ Fun fact: My first paid writing job was a series of Haikus!
+```
 
 <!--
 **kieran760/kieran760** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
