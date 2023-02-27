@@ -18,7 +18,7 @@ I'm Kieran — a technical content writer with a deep understanding of blockchai
 
 [Institutional DeFi in 5 simple steps](https://www.qredo.com/blog/institutional-defi-in-5-simple-steps)
 
-[Buying NFTs on eToro[](https://www.etoro.com/news-and-analysis/etoro-updates/how-to-buy-an-nft-on-etoro/)
+[Buying NFTs on eToro](https://www.etoro.com/news-and-analysis/etoro-updates/how-to-buy-an-nft-on-etoro/)
 
 ### Whitepapers 📝
 
